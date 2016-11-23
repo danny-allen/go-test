@@ -2,9 +2,9 @@ package fifth
 
 import (
 	"test/demo/Exercise/Fifth/notify"
-	"test/demo/Exercise/Fifth/providers/emailNotifyProvider"
-	"test/demo/Exercise/Fifth/providers/pushNotifyProvider"
-	"test/demo/Exercise/Fifth/providers/smsNotifyProvider"
+	"test/demo/Exercise/Fifth/notify/providers/emailNotifyProvider"
+	"test/demo/Exercise/Fifth/notify/providers/pushNotifyProvider"
+	"test/demo/Exercise/Fifth/notify/providers/smsNotifyProvider"
 )
 
 
