@@ -1,0 +1,10 @@
+hash: 9ae27457679525e0b575cb98b18ae9149669312b359e4fb647ac828e1f5ce85c
+updated: 2016-10-31T14:35:55.256598889Z
+imports:
+- name: github.com/uniplaces/carbon
+  version: 23c4b21c1871dc4727cb392b271ff1b5a6eebded
+  subpackages:
+  - lang
+- name: github.com/vektra/errors
+  version: c64d83aba85aa4392895aadeefabbd24e89f3580
+testImports: []
